@@ -1,0 +1,39 @@
+.contenedor1 {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: black;
+}
+
+.galeria {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+}
+
+.final {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  margin: auto;
+}
+
+body {
+  background-image: url("img/gotas_lluvia_2560x1440.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
+
+.foto {
+  justify-content: space-around;
+  justify-content: center;
+}
+
+.Palabras {
+  padding: 90px 1000px 90px 70px;
+  color: aliceblue;
+}
